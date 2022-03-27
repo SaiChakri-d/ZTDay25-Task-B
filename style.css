@@ -1,0 +1,11 @@
+.changes {
+    font-family: verdana, arial, helvetica, sans-serif;
+    background-color: goldenrod;
+    padding: 2em;
+    margin: 4em;   
+    border-radius: 25px; 
+} 
+
+.changes:hover{
+    background-color: wheat;
+}
